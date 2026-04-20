@@ -13,7 +13,7 @@ API REST completa para gestionar el inventario deuna tieda, construida en Spring
 
 ```bash
 # Clonar el repositorio
-git clone 
+git clone https://github.com/emilioleon0924/Practica-API-Rest-Inventario-de-productos
 
 # Entrar al directorio
 cd inventario
